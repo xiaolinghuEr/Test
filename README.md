@@ -11,7 +11,7 @@ test:2
 
 test: 3 // test conflict
 
-test: 4 // test conflict
+test: 4 // test conflict, conflict_2
 
 t2:1
 
